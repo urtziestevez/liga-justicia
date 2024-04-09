@@ -18,14 +18,14 @@ Este es un mensaje editado completamente desde GitHub
 ##### h5
 ###### h6
 
-*A
-*B
-*C
-*D
-*E
-  *E1
-  *E2
-  *E3
+* A
+* B
+* C
+* D
+* E
+  * E1
+  * E2
+  * E3
 
 ![GitHub Logo] (https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
 *Esto* es un _texto_
