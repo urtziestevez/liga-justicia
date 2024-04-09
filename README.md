@@ -27,5 +27,5 @@ Este es un mensaje editado completamente desde GitHub
   * E2
   * E3
 
-![GitHub Logo] (https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
+![GitHub Logo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGitHub&psig=AOvVaw2HGMJsttTEelm7eVzJE_Gi&ust=1712753659490000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjU4dyWtYUDFQAAAAAdAAAAABAE))
 *Esto* es un _texto_
